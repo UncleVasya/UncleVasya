@@ -17,6 +17,10 @@ Python/Django developer
 
 <br/>
 
+## Contatcs:
+- unclevasyaai@gmail.com
+- t.me/UncleVasya
+
 
 ## 🛠 Last project
 Most recently I have worked on developing [inhouse league system](https://github.com/UncleVasya/Dota2-EU-Ladder) for Dota 2 communities: 
