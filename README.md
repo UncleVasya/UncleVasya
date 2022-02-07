@@ -23,7 +23,7 @@ Python/Django developer
 - [t.me/UncleVasya]()
 
 
-## 🛠 Last project
+## 🛠 Latest project
 Most recently I have worked on developing [inhouse league system](https://github.com/UncleVasya/Dota2-EU-Ladder) for Dota 2 communities: 
  * Django as a backend for league logic (stats for players and matches; custom team balancer to produce fun and competitive matches);
  * [discord.py ](https://discordpy.readthedocs.io/en/stable/) for Discord integration, providing a bot for admins to control their league and for players to join league matches, query stats, etc.
