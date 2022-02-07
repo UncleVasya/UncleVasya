@@ -17,9 +17,10 @@ Python/Django developer
 
 <br/>
 
-## Contatcs:
+### Contatcs:
+
 - unclevasyaai@gmail.com
-- t.me/UncleVasya
+- [t.me/UncleVasya]()
 
 
 ## 🛠 Last project
