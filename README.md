@@ -28,7 +28,7 @@ Most recently I have worked on developing [inhouse league system](https://github
 
 ## Before that:
    * [EU4 WinXP fix](https://github.com/UncleVasya/EU4_WinXP_fix) (2015-2018) - A small util to patch Europa Universalis 4 and some other new games to work on Windows XP. (C++)
-   * [hackerrank_tools](https://github.com/UncleVasya/hackerrank-tools) (2014-2016) - a tool to keep a track of most successful bots for HackerRanks' Game of Life bot challenge, download replays data and run these replays using custom visualizer. Was hosted on OpenShift, no longer alive.
+   * [hackerrank_tools](https://github.com/UncleVasya/hackerrank-tools) (2014-2016) - a tool to keep a track of most successful bots for HackerRanks' Game of Life bot challenge, download replays data and run these replays using custom visualizer. Was hosted on OpenShift, no longer alive. (Python/Django)
    
 ## Small contributions:
    * some fixes and improvements for [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer) game (2013, C++, Lua)
