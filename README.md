@@ -28,8 +28,15 @@ Most recently I have worked on developing [inhouse league system](https://github
 
 ## Before that:
    * [EU4 WinXP fix](https://github.com/UncleVasya/EU4_WinXP_fix) (2015-2018) - A small util to patch Europa Universalis 4 and some other new games to work on Windows XP. (C++)
-   * [hackerrank_tools](https://github.com/UncleVasya/hackerrank-tools) (2014-2016) - a tool to parse replay data from HackerRanks' Game of Life bot challenge and play it using custom visualizer.
+   * [hackerrank_tools](https://github.com/UncleVasya/hackerrank-tools) (2014-2016) - a tool to keep a track of most successful bots for HackerRanks' Game of Life bot challenge, download replays data and run these replays using custom visualizer. Was hosted on OpenShift, no longer alive.
    
 ## Small contributions:
-    * some fixes and improvements for [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer) game (2013, C++, Lua)
-    * couple bugfixes for Linux version of [GitExtensions](https://github.com/gitextensions/gitextensions/) (2015, C#, Mono)
+   * some fixes and improvements for [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer) game (2013, C++, Lua)
+   * couple bugfixes for Linux version of [GitExtensions](https://github.com/gitextensions/gitextensions/) (2015, C#, Mono)
+
+
+## Education & Job experience
+- 2011 - Graduated from [Stakhanov Machine-building Technical School](https://smt-org.ru/) in Programming as a Junior Specialist;
+- 2013-2014 - Android developer in [42 Coffee Cups](https://jobs.dou.ua/companies/42-coffee-cups/);
+- 2014-2014 - Python/Django developer in [42 Coffee Cups](https://jobs.dou.ua/companies/42-coffee-cups/);
+- since 2014 worked only on pet projects described above.
